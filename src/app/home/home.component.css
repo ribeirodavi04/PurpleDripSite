@@ -1,0 +1,41 @@
+.banner{
+    background-color: #9f3cc4;
+}
+.bannerimg{
+    height: 200px;
+}
+
+.nvb{
+    font-family: 'Barlow Condensed', sans-serif;
+    border-bottom: 4px solid rgb(201, 201, 201);
+}
+
+.carrinho{
+    font-size: 22pt;
+    color: #9f3cc4;
+    font-weight: bold;
+}
+.logoCar{
+    max-height: 50px;
+}
+.barraPesquisa{
+    border: 2px solid #9f3cc4;
+    padding: 7px;
+    border-radius:10px 0px 0px 10px ;
+    border-right: 0px solid;
+}
+.btnLupa{
+    padding: 7px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 0px 10px 10px 0px;
+    border: 2px solid #9f3cc4;
+}
+.lblPesquisa{
+    font-size: 20pt;
+    color: black;
+    margin-right: 10px;
+}
+.lupa{
+    max-height: 20px;
+}

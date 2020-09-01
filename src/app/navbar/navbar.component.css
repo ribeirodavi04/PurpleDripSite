@@ -1,0 +1,13 @@
+.nblogo{
+    max-height: 50px;
+}
+.nvi{
+    padding: 20px;
+    font-size: 17pt;
+    margin-right: 50px;
+    text-align:center;
+}
+.nvb{
+    border-bottom:2px solid rgb(201, 201, 201);
+    font-family: 'Barlow Condensed', sans-serif;
+}
